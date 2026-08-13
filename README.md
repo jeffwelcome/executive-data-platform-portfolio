@@ -16,7 +16,7 @@ engineering operating models, modernization strategy, and business outcomes.
 
 ## Portfolio
 
-[View Executive Technical Portfolio (PDF)](./Jeff_Welcome_Portfolio.pdf)
+[View Executive Technical Portfolio (PDF)](https://github.com/jeffwelcome/executive-data-platform-portfolio/blob/87bf97aad152b464719c29841ce0ba2adc36b6a2/Jeff_Welcome_Portfolio.pdf)
 
 ---
 
