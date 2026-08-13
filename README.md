@@ -1,7 +1,24 @@
 # Executive Data Platform & Engineering Portfolio
 
-Selected architecture, platform strategy, and engineering leadership examples from 28 years building enterprise data and analytics solutions.
+A leadership portfolio showcasing enterprise-scale platform architecture,
+engineering operating models, modernization strategy, and business outcomes.
 
-Areas represented include enterprise data platforms, Databricks/Azure architecture, metadata-driven engineering, DataOps, governance, platform modernization, and organizational leadership.
+## Areas of Focus
 
-Architecture examples have been generalized to remove proprietary company information.
+- Enterprise Data Platform Strategy
+- Data Engineering & Architecture
+- Databricks / Azure Lakehouse Architecture
+- Platform Engineering & DataOps
+- Metadata-Driven Engineering
+- Federated Data & Analytics
+- Governance & Enterprise Data Products
+- AI / ML Platform Enablement
+
+## Portfolio
+
+[View Executive Technical Portfolio (PDF)](./Jeff_Welcome_Portfolio.pdf)
+
+---
+
+Architecture and operating-model examples have been generalized to protect
+proprietary implementation details.
