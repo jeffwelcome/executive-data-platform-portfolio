@@ -6,7 +6,7 @@ and operational excellence.
 
 ## Executive Technical Portfolio
 
-[View Executive Technical Portfolio (PDF)](https://1drv.ms/p/c/f522a933627f3332/IQBMP6k71gQJSqTW89JUApX8Ad7LkGXiaZ720QhasHmbiAs?e=nL9dMX)
+[View Executive Technical Portfolio (PPTX)](https://1drv.ms/p/c/f522a933627f3332/IQBMP6k71gQJSqTW89JUApX8Ad7LkGXiaZ720QhasHmbiAs?e=nL9dMX)
 
 
 ### Portfolio Contents
