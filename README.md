@@ -14,27 +14,30 @@ and operational excellence.
 **01 — Executive Profile**  
 Leadership scope, career highlights, platform scale, and business outcomes.
 
-**02 — Enterprise Data Platform Architecture**  
+**02 - Career Narrative**
+Three decades of building ahead of industry maturity—from multi-channel data platforms and enterprise data at uncommon scale to repeated enterprise platform reinvention.
+
+**03 — Enterprise Data Platform Architecture**  
 Reference architecture spanning enterprise integration, Azure, Databricks,
 lakehouse engineering, data products, analytics, ML, and AI enablement.
 
-**03 — Federated Data Platform**  
+**04 — Federated Data Platform**  
 Five-workspace model combining centralized enterprise data products with
 federated analytics engineering, operational integration, and domain ownership.
 
-**04 — Federated Data Platform Operating Model**  
+**05 — Federated Data Platform Operating Model**  
 How platform, enterprise engineering, domain engineering, and data science
 responsibilities are distributed across the federated organization.
 
-**05 — Engineering Operating Personas**  
+**06 — Engineering Operating Personas**  
 Platform Engineering, Enterprise Data Engineering, Domain Data Engineering &
 Analytics, and their responsibilities, customers, and deliverables.
 
-**06 — Enterprise Promotion & Governance**  
+**07 — Enterprise Promotion & Governance**  
 The lifecycle for promoting domain-developed assets into governed,
 enterprise-supported data products.
 
-**07 — Platform Operating Principles**  
+**08 — Platform Operating Principles**  
 Platform-as-a-product, federated ownership, reusable engineering,
 governance-by-design, and automation-first principles.
 
