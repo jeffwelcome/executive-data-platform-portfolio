@@ -14,10 +14,10 @@ and operational excellence.
 **01 — Executive Profile**  
 Leadership scope, career highlights, platform scale, and business outcomes.
 
-**02 — Career Narrative**
+**02 — Career Narrative**  
 Three decades of building ahead of industry maturity—from multi-channel data platforms and enterprise data at uncommon scale to repeated enterprise platform reinvention.
 
-**03 — Enterprise Data Platform Architecture**
+**03 — Enterprise Data Platform Architecture**  
 Reference architecture spanning enterprise integration, Azure, Databricks,
 lakehouse engineering, data products, analytics, ML, and AI enablement.
 
